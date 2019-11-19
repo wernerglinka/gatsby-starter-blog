@@ -26,7 +26,7 @@ view back on the skyline of her hometown _Bookmarksgrove_, the headline of
 Lane. Pityful a rethoric question ran over her cheek, then she continued her
 way. On her way she met a copy.
 
-![](https://res.cloudinary.com/glinkaco/image/upload/v1565045657/Industrial/image4_uu7nmg.jpg)
+![](https://res.cloudinary.com/glinkaco/image/upload/c_limit,f_auto,q_auto,w_700/v1565045657/Industrial/image4_uu7nmg.jpg)
 
 ### Overlaid the jeepers uselessly much excluding
 
