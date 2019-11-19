@@ -24,11 +24,7 @@ When she reached the first hills of the **Italic Mountains**, she had a last
 view back on the skyline of her hometown _Bookmarksgrove_, the headline of
 [Alphabet Village](http://google.com) and the subline of her own road, the Line
 Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
-
-![](https://res.cloudinary.com/glinkaco/image/upload/c_limit,f_auto,q_auto,w_700/v1565045657/Industrial/image4_uu7nmg.jpg)
-
-### Overlaid the jeepers uselessly much excluding
+way. On her way she met a copy.Overlaid the jeepers uselessly much excluding
 
 But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with
@@ -45,12 +41,16 @@ mouth. Even the all-powerful Pointing has no control about the blind texts it is
 an almost unorthographic life One day however a small line of blind text by the
 name of Lorem Ipsum decided to leave for the far World of Grammar.
 
+![](https://res.cloudinary.com/glinkaco/image/upload/c_scale,w_auto:100,dpr_auto/v1566944123/Events-Promo/las-vegas-night_ubagr3.jpg)
+
 ### According a funnily until pre-set or arrogant well cheerful
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
+
+![](https://res.cloudinary.com/glinkaco/image/upload/v1567110186/page_sections/home-page-banner/banner-temp_ovnv5t.jpg)
 
 1. So baboon this
 2. Mounted militant weasel gregariously admonishingly straightly hey
