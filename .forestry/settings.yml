@@ -9,8 +9,8 @@ sections:
   label: Pages
   create: all
   match: pages/**.md
-upload_dir: https://res.cloudinary.com/glinkaco/image/upload
-public_path: https://res.cloudinary.com/glinkaco/image/upload
+upload_dir: https://res.cloudinary.com/glinkaco/image/upload/Industrial
+public_path: https://res.cloudinary.com/glinkaco/image/upload/Industrial
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
