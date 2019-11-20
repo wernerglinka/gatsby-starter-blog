@@ -2,6 +2,8 @@
 title: New Beginnings
 date: 2015-05-28T22:40:32.169Z
 
+image: image.jpg
+
 ---
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
