@@ -11,3 +11,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- src/a-new-page-to-try.md
